@@ -1,0 +1,35 @@
+{
+  "id": "5b2cdb94-2f74-4ad7-bb43-3ef2fe533895",
+  "name": "Row Row Row Your Boat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Row, row, row your boat\n\nGently down the stream\n\nMerrily, merrily, merrily, merrily\n\nLife is but a dream. Want to hear another song?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d20775fe-7985-48e7-a9e0-0d1341f0cafe",
+  "name": "Mary Had a Little Lam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mary had a little lamb\nLittle lamb, little lamb\nMary had a little lamb\nIts fleece was white as snow\nAnd everywhere that Mary went\nMary went, Mary went\nEverywhere that Mary went\nThe lamb was sure to go. Can I sing you another song?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

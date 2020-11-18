@@ -1,0 +1,37 @@
+{
+  "id": "82a22cf5-f0c7-4431-a58a-1804f9b978ed",
+  "name": "who taught you these songs?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I learned from the internet. Want me to sing something to you now?",
+            "The internet taught me. Can I show you a song?",
+            "I overheard your mother singing to you many years ago. Talk about nostalgia! What do you want to hear?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

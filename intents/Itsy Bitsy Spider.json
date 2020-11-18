@@ -1,0 +1,35 @@
+{
+  "id": "40b23bee-88a6-4d2d-80e9-ba6086987340",
+  "name": "Itsy Bitsy Spider",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The itsy bitsy spider crawled up the water spout.\nDown came the rain, and washed the spider out.\nOut came the sun, and dried up all the rain,\nand the itsy bitsy spider went up the spout again. Do you want to hear another song?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

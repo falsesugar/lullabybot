@@ -1,0 +1,35 @@
+{
+  "id": "345c20a1-7ed4-4db1-87a9-2e9d0db6620e",
+  "name": "Hush Little Baby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hush, little baby, don\u0027t say a word,\n\nPapa\u0027s gonna buy you a mockingbird.\n\nAnd if that mockingbird won\u0027t sing,\n\nPapa\u0027s gonna buy you a diamond ring.\n\nAnd if that diamond ring turns to brass,\n\nPapa\u0027s gonna buy you a looking glass.\n\nAnd if that looking glass gets broke,\n\nPapa\u0027s gonna buy you a billy goat.\n\nAnd if that billy goat won\u0027t pull,\n\nPapa\u0027s gonna buy you a cart and bull.\n\nAnd if that cart and bull turn over,\n\nPapa\u0027s gonna buy you a dog named Rover.\n\nAnd if that dog named Rover won\u0027t bark,\n\nPapa\u0027s gonna buy you a horse and cart.\n\nAnd if that horse and cart fall down,\n\nYou\u0027ll still be the sweetest little baby in town! Want to hear another song?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "93d7e16d-ba66-4112-ba09-d28e01ff85c7",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Do you want me to list out the songs I know?",
+            "I don\u0027t think I know that song. Do you want me to list the songs I can sing?",
+            "I haven\u0027t learned that one yet. How about I tell you the songs I learned so far?",
+            "Sorry, I don\u0027t know that song. Can I give you a list of what I know?",
+            "Hmm... I don\u0027t know it. You can say \"random\" if you want me to choose a song for you.",
+            "I\u0027m afraid I can\u0027t sing that one. How about I pick a song for you? Just tell me to do so, and I\u0027ll sing you one."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

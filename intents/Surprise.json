@@ -1,0 +1,40 @@
+{
+  "id": "d0ee0db8-a47a-4791-b6d4-4e17258c76cc",
+  "name": "Surprise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I will sing Row Row Row Your Boat. Row, row, row your boat\n\nGently down the stream\n\nMerrily, merrily, merrily, merrily\n\nLife is but a dream. Would you like to hear another song?",
+            "I will sing Twinkle Twinkle Little Star. Twinkle, twinkle, little star,\n\nHow I wonder what you are!\n\nUp above the world so high,\n\nLike a diamond in the sky.\n\nWhen the blazing sun is gone,\n\nWhen he nothing shines upon,\n\nThen you show your little light,\n\nTwinkle, twinkle, all the night. Would you like to hear another song?",
+            "I will sing Hush Little Baby. Hush, little baby, don\u0027t say a word,\n\nPapa\u0027s gonna buy you a mockingbird.\n\nAnd if that mockingbird won\u0027t sing,\n\nPapa\u0027s gonna buy you a diamond ring.\n\nAnd if that diamond ring turns to brass,\n\nPapa\u0027s gonna buy you a looking glass.\n\nAnd if that looking glass gets broke,\n\nPapa\u0027s gonna buy you a billy goat.\n\nAnd if that billy goat won\u0027t pull,\n\nPapa\u0027s gonna buy you a cart and bull.\n\nAnd if that cart and bull turn over,\n\nPapa\u0027s gonna buy you a dog named Rover.\n\nAnd if that dog named Rover won\u0027t bark,\n\nPapa\u0027s gonna buy you a horse and cart.\n\nAnd if that horse and cart fall down,\n\nYou\u0027ll still be the sweetest little baby in town!  Would you like to hear another song?",
+            "I will sing Rock-a-bye baby. Rock-a-bye baby\n\nOn the tree tops,\n\nWhen the wind blows\n\nThe cradle will rock.\n\nWhen the bough breaks\n\nThe cradle will fall,\n\nAnd down will come baby\n\nCradle and all. Would you like to hear another song?",
+            "I will sing Itsy Bitsy Spider. The itsy bitsy spider crawled up the water spout.\nDown came the rain, and washed the spider out.\nOut came the sun, and dried up all the rain,\nand the itsy bitsy spider went up the spout again. Do you want to hear another song?",
+            "I will sing Mary Had a Little Lamb. Mary had a little lamb\nLittle lamb, little lamb\nMary had a little lamb\nIts fleece was white as snow\nAnd everywhere that Mary went\nMary went, Mary went\nEverywhere that Mary went\nThe lamb was sure to go. Do you want to hear another song?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

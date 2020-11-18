@@ -1,0 +1,35 @@
+{
+  "id": "a674b966-cbae-4ac8-ad1e-7b0c2c4f17dc",
+  "name": "Rock-a-Bye Baby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Rock-a-bye baby\n\nOn the tree tops,\n\nWhen the wind blows\n\nThe cradle will rock.\n\nWhen the bough breaks\n\nThe cradle will fall,\n\nAnd down will come baby\n\nCradle and all. Want to hear another song?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

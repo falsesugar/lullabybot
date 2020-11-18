@@ -1,0 +1,35 @@
+{
+  "id": "22e15f59-1cbe-424d-b350-7e0cb13a0c8b",
+  "name": "What Lullabies Do You Know?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can sing \"Rock-a-Bye Baby\", \"Twinkle, Twinkle, Little Star\", \"Hush Little Baby\", \"Itsy Bitsy Spider\", \"Row, Row, Row Your Boat\" and \"Mary Had a Little Lamb\". Which one would you like me to sing?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
